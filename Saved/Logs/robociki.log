@@ -1365,3 +1365,609 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/budynk/lodowa.lodowa
 [2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/ai/cele_rodzinki.cele_rodzinki
+[2022.02.19-09.55.46:951][810]LogAssetTools: Warning: Failed to import 'C:\Users\studentwse\Desktop\R.jfif'. Unknown extension 'jfif'.
+[2022.02.19-09.56.54:180][ 23]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\studentwse\Desktop\OIP.jpg)
+[2022.02.19-09.56.54:191][ 23]LogTexture: Display: Building textures: OIP (BGRA8, 474X502)
+[2022.02.19-09.57.34:841][862]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TopDownBP/budynk/OIP.OIP
+[2022.02.19-09.57.34:878][862]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.02.19-09.57.52:501][459]LogSlate: Window 'lodowa' being destroyed
+[2022.02.19-09.57.55:762][598]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.02.19-09.57.55:826][598]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.02.19-09.58.02:170][955]LogContentBrowser: Attempting asset rename: NewMaterial -> lodowa_mat
+[2022.02.19-09.58.02:345][955]LogContentBrowser: End creating deferred item NewMaterial
+[2022.02.19-09.58.03:840][977]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TopDownBP/budynk/lodowa_mat.lodowa_mat
+[2022.02.19-09.58.03:843][977]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A39062204536AB1FCB7C3C1ABFF0335E5291C306), compiling. 
+[2022.02.19-09.58.03:888][977]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.02.19-09.58.03:919][977]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.19-09.58.04:052][977]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.19-09.58.04:243][977]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D4E85084F141E02A765373AE2E20DA190E494AFA), compiling. 
+[2022.02.19-09.58.04:264][977]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-09.58.04:384][978]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.19-09.58.05:989][ 63]LogShaderCompilers: Display: ================================================
+[2022.02.19-09.58.06:051][ 67]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.02.19-09.58.06:051][ 67]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-09.58.06:091][ 68]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.19-09.58.07:318][154]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.02.19-09.58.07:318][154]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-09.58.07:902][178]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.02.19-09.58.07:902][178]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.02.19-09.58.07:902][178]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.19-09.58.07:902][178]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.19-10.00.03:896][459]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EAEEFC852D9961FE2CA0F708F1426632FEF059CE), compiling. 
+[2022.02.19-10.00.03:899][459]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5162304E720C8279EB3F662A0D269CC9643B443A), compiling. 
+[2022.02.19-10.00.03:905][459]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-10.00.03:973][461]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.02.19-10.00.03:973][461]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.02.19-10.00.03:974][461]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.19-10.00.03:974][461]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.19-10.00.12:335][ 48]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 023171D9DF30405CD354800CDD5E53366C41590B), compiling. 
+[2022.02.19-10.00.12:337][ 48]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 890B3FCD52972C4621CB30F27AD6352E8B159CCF), compiling. 
+[2022.02.19-10.00.12:342][ 48]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 58B1653E6F7CA6EF0A4A78FE9EA9B43D95427274), compiling. 
+[2022.02.19-10.00.12:347][ 48]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-10.00.12:395][ 49]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-10.00.12:395][ 49]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.02.19-10.00.12:395][ 49]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.02.19-10.00.12:395][ 49]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-10.00.12:396][ 49]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.02.19-10.00.12:396][ 49]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.02.19-10.00.12:396][ 49]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.19-10.00.12:396][ 49]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.19-10.00.15:189][198]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 95E964A09EE65B4E84E95F097DC9F201DE4CB9C6), compiling. 
+[2022.02.19-10.00.15:191][198]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F0D0ED79A3236C84FF78DA6983D41115C3924164), compiling. 
+[2022.02.19-10.00.15:194][198]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-10.00.15:194][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.19-10.00.15:194][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-10.00.15:200][199]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-10.00.15:211][200]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.15:211][200]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.02.19-10.00.15:213][200]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.02.19-10.00.15:213][200]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.02.19-10.00.15:213][200]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.15:213][200]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-10.00.15:697][219]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.02.19-10.00.15:697][219]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.15:948][241]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.02.19-10.00.15:948][241]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.16:008][244]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-10.00.16:008][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.19-10.00.16:008][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-10.00.16:953][285]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.02.19-10.00.16:953][285]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.17:606][306]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.19-10.00.17:606][306]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.19-10.00.17:606][306]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.19-10.00.17:606][306]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-10.00.17:606][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.19-10.00.17:606][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-10.00.20:471][391]LogMaterialEditor: Saving and Compiling material lodowa_mat
+[2022.02.19-10.00.20:855][391]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 40773C415AA2965D025BD80B7E50888C0A7E768D), compiling. 
+[2022.02.19-10.00.20:883][391]LogMaterial: Display: Missing cached shadermap for lodowa_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5BFE20D61D834F95507CD472D92ED8C0EFA24B46), compiling. 
+[2022.02.19-10.00.20:956][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.02.19-10.00.20:962][391]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-10.00.21:283][391]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.02.19-10.00.21:283][391]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-10.00.21:355][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.19-10.00.21:496][391]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.21:504][391]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.02.19-10.00.21:504][391]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.02.19-10.00.21:504][391]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.02.19-10.00.21:504][391]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-10.00.21:607][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/lodowa_mat" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa_mat.uasset" SILENT=true
+[2022.02.19-10.00.21:613][391]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/lodowa_mat4A3216424AD83623A98F87882748A597.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa_mat.uasset'
+[2022.02.19-10.00.21:806][391]AssetCheck: New page: Asset Save: lodowa_mat
+[2022.02.19-10.00.21:806][391]LogContentValidation: Display: Validating Material /Game/TopDownBP/budynk/lodowa_mat.lodowa_mat
+[2022.02.19-10.00.21:814][391]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-10.00.21:814][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.19-10.00.21:814][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-10.00.23:058][430]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.19-10.00.23:058][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.19-10.00.23:058][430]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.19-10.00.23:058][430]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-10.00.23:058][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.19-10.00.23:058][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-10.00.24:818][471]BlueprintLog: New page: Compile lodowa
+[2022.02.19-10.00.24:870][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.19-10.00.30:832][581]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.19-10.00.30:845][581]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.19-10.00.30:846][581]LogPlayLevel: [PlayLevel] Compiling rodzinka_PL before play...
+[2022.02.19-10.00.30:913][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.02.19-10.00.30:914][581]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2022.02.19-10.00.30:914][581]PIE: New page: PIE session: TopDownExampleMap (19 lut 2022, 12:00:30)
+[2022.02.19-10.00.30:915][581]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.00.30:930][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015052s)
+[2022.02.19-10.00.30:931][581]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.02.19-10.00.30:932][581]LogPlayLevel: PIE: World Init took: (0.002040s)
+[2022.02.19-10.00.30:932][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017276s)
+[2022.02.19-10.00.30:970][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.02.19-10.00.30:971][581]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.19-10.00.30:971][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.19-10.00.30:971][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.19-10.00.30:971][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.19-10.00.30:971][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.19-10.00.30:971][581]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.19-10.00.30:976][581]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.19-10.00.30:976][581]LogAudioMixer: Display: 1: FrontRight
+[2022.02.19-10.00.30:986][581]LogAudioMixer: Display: Using Audio Device LG IPS FULLHD (NVIDIA High Definition Audio)
+[2022.02.19-10.00.30:986][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.19-10.00.30:986][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.19-10.00.30:986][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.19-10.00.30:986][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.19-10.00.30:986][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.19-10.00.30:987][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.19-10.00.30:988][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.19-10.00.30:988][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.19-10.00.30:988][581]LogInit: FAudioDevice initialized.
+[2022.02.19-10.00.30:988][581]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap'.
+[2022.02.19-10.00.30:995][581]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.02.19-10.00.30:998][581]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.02.19-11.00.30
+[2022.02.19-10.00.30:999][581]LogWorld: Bringing up level for play took: 0.002254
+[2022.02.19-10.00.30:999][581]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.02.19-10.00.31:002][581]PIE: Server logged in
+[2022.02.19-10.00.31:003][581]PIE: Play in editor total start time 0,161 seconds.
+[2022.02.19-10.00.52:474][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.00.52:474][ 23]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.00.52:474][ 23]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.00.52:475][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.00.52:578][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.19-10.00.52:589][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.00.52:621][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.00.52:621][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.00.52:622][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.00.52:629][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.02.19-10.00.52:666][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.02.19-10.01.13:150][361]BlueprintLog: New page: Compile lodowa
+[2022.02.19-10.01.13:263][361]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.02.19-10.01.14:771][383]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.19-10.01.14:777][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.19-10.01.14:777][383]PIE: New page: PIE session: TopDownExampleMap (19 lut 2022, 12:01:14)
+[2022.02.19-10.01.14:778][383]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.01.14:792][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015121s)
+[2022.02.19-10.01.14:793][383]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.02.19-10.01.14:793][383]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2022.02.19-10.01.14:793][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016460s)
+[2022.02.19-10.01.14:878][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.02.19-10.01.14:879][383]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.19-10.01.14:879][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.19-10.01.14:879][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.19-10.01.14:880][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.19-10.01.14:880][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.19-10.01.14:880][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.19-10.01.14:880][383]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.19-10.01.14:884][383]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.19-10.01.14:884][383]LogAudioMixer: Display: 1: FrontRight
+[2022.02.19-10.01.14:894][383]LogAudioMixer: Display: Using Audio Device LG IPS FULLHD (NVIDIA High Definition Audio)
+[2022.02.19-10.01.14:894][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.19-10.01.14:895][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.19-10.01.14:895][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.19-10.01.14:895][383]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.19-10.01.14:895][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.19-10.01.14:895][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.19-10.01.14:896][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.19-10.01.14:896][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.19-10.01.14:896][383]LogInit: FAudioDevice initialized.
+[2022.02.19-10.01.14:896][383]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap'.
+[2022.02.19-10.01.14:905][383]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.02.19-10.01.14:908][383]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.02.19-11.01.14
+[2022.02.19-10.01.14:908][383]LogWorld: Bringing up level for play took: 0.002090
+[2022.02.19-10.01.14:908][383]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.02.19-10.01.14:910][383]PIE: Server logged in
+[2022.02.19-10.01.14:912][383]PIE: Play in editor total start time 0,135 seconds.
+[2022.02.19-10.01.40:674][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.01.40:674][876]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.01.40:674][876]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.01.40:674][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.01.40:732][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.19-10.01.40:743][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.01.40:772][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.19-10.01.40:772][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.01.40:773][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.01.40:775][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.01.40:779][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.19-10.01.40:822][877]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.02.19-10.01.53:446][154]BlueprintLog: New page: Compile lodowa
+[2022.02.19-10.01.53:510][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.02.19-10.01.55:030][176]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.19-10.01.55:038][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.19-10.01.55:038][176]PIE: New page: PIE session: TopDownExampleMap (19 lut 2022, 12:01:55)
+[2022.02.19-10.01.55:038][176]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.01.55:053][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014950s)
+[2022.02.19-10.01.55:054][176]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.02.19-10.01.55:054][176]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2022.02.19-10.01.55:054][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016272s)
+[2022.02.19-10.01.55:117][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.19-10.01.55:118][176]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.19-10.01.55:118][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.19-10.01.55:118][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.19-10.01.55:119][176]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.19-10.01.55:119][176]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.19-10.01.55:119][176]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.19-10.01.55:119][176]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.19-10.01.55:123][176]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.19-10.01.55:123][176]LogAudioMixer: Display: 1: FrontRight
+[2022.02.19-10.01.55:134][176]LogAudioMixer: Display: Using Audio Device LG IPS FULLHD (NVIDIA High Definition Audio)
+[2022.02.19-10.01.55:134][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.19-10.01.55:134][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.19-10.01.55:134][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.19-10.01.55:134][176]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.19-10.01.55:134][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.19-10.01.55:134][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.19-10.01.55:136][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.19-10.01.55:136][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.19-10.01.55:136][176]LogInit: FAudioDevice initialized.
+[2022.02.19-10.01.55:136][176]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap'.
+[2022.02.19-10.01.55:143][176]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.02.19-10.01.55:146][176]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.02.19-11.01.55
+[2022.02.19-10.01.55:147][176]LogWorld: Bringing up level for play took: 0.002132
+[2022.02.19-10.01.55:147][176]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.19-10.01.55:149][176]PIE: Server logged in
+[2022.02.19-10.01.55:150][176]PIE: Play in editor total start time 0,113 seconds.
+[2022.02.19-10.02.02:545][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.02.02:545][335]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.02.02:545][335]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.02.02:546][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.02.02:577][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.19-10.02.02:588][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.02.02:619][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.19-10.02.02:619][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.02.02:620][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.02.02:622][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.02.02:626][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.19-10.02.02:656][336]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.19-10.02.14:870][628]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.19-10.02.14:876][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.19-10.02.14:877][628]PIE: New page: PIE session: TopDownExampleMap (19 lut 2022, 12:02:14)
+[2022.02.19-10.02.14:877][628]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.02.14:894][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017367s)
+[2022.02.19-10.02.14:895][628]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.02.19-10.02.14:896][628]LogPlayLevel: PIE: World Init took: (0.002110s)
+[2022.02.19-10.02.14:896][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019666s)
+[2022.02.19-10.02.14:938][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.19-10.02.14:938][628]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.19-10.02.14:938][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.19-10.02.14:938][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.19-10.02.14:939][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.19-10.02.14:939][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.19-10.02.14:939][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.19-10.02.14:939][628]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.19-10.02.14:943][628]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.19-10.02.14:943][628]LogAudioMixer: Display: 1: FrontRight
+[2022.02.19-10.02.14:954][628]LogAudioMixer: Display: Using Audio Device LG IPS FULLHD (NVIDIA High Definition Audio)
+[2022.02.19-10.02.14:954][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.19-10.02.14:954][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.19-10.02.14:954][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.19-10.02.14:955][628]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.19-10.02.14:955][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.19-10.02.14:955][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.19-10.02.14:956][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.19-10.02.14:956][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.19-10.02.14:956][628]LogInit: FAudioDevice initialized.
+[2022.02.19-10.02.14:956][628]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownExampleMap'.
+[2022.02.19-10.02.14:965][628]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.02.19-10.02.14:967][628]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.02.19-11.02.14
+[2022.02.19-10.02.14:968][628]LogWorld: Bringing up level for play took: 0.002229
+[2022.02.19-10.02.14:968][628]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.02.19-10.02.14:970][628]PIE: Server logged in
+[2022.02.19-10.02.14:971][628]PIE: Play in editor total start time 0,096 seconds.
+[2022.02.19-10.02.56:905][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.02.56:905][486]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.02.56:905][486]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.02.56:906][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.02.56:934][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.19-10.02.56:945][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.02.56:976][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.19-10.02.56:976][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.02.56:977][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.02.56:979][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.02.56:983][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.02.19-10.02.57:014][487]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.02.19-10.03.01:944][757]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.19-10.03.34:728][757]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.19-10.03.34:736][757]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.19-10.03.34:751][757]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.19-10.03.36:751][776]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.02.19-10.03.37:003][776]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.19-10.03.40:251][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/budynk/NewBlueprint.NewBlueprint
+[2022.02.19-10.03.44:607][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.54:094][398]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.54:107][399]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.54:153][400]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.54:208][401]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:399][469]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:460][470]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:519][471]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:581][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:642][473]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:700][474]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:768][475]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.55:830][476]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:091][480]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:155][481]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:217][482]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:285][483]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:349][484]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:413][485]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:610][488]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:677][489]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:738][490]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.56:866][492]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.57:727][505]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.57:786][506]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.57:848][507]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:042][510]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:108][511]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:170][512]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:231][513]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:300][514]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:362][515]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:424][516]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:491][517]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:553][518]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:736][521]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:794][522]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:853][523]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:912][524]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.58:975][525]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:036][526]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:102][527]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:293][530]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:356][531]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:418][532]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:480][533]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:545][534]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:607][535]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.03.59:931][540]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.04:481][620]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.04:537][621]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.04:592][622]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.04:646][623]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.05:713][693]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.05:788][695]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.05:853][696]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.05:917][697]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:056][699]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:118][700]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:189][701]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:257][702]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:320][703]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:380][704]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:644][708]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:709][709]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:778][710]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:845][711]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:913][712]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.06:981][713]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:050][714]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:115][715]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:184][716]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:248][717]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:307][718]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:369][719]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:437][720]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:503][721]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.07:694][724]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.09:151][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.09:228][749]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.09:282][750]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.09:337][751]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.09:392][752]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.11:144][827]Cmd: DELETE
+[2022.02.19-10.04.11:144][827]Cmd: ACTOR DELETE
+[2022.02.19-10.04.11:150][827]LogEditorActor: Deleted Actor: NewBlueprint_C
+[2022.02.19-10.04.11:151][827]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.NewBlueprint_2.RenderComponent)
+[2022.02.19-10.04.11:210][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.02.19-10.04.11:211][827]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.02.19-10.04.26:262][220]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.04.26:263][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.04.31:851][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.02.19-10.04.32:977][545]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.19-10.04.33:077][545]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/budynk/NewBlueprint.NewBlueprint
+[2022.02.19-10.04.34:041][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.02.19-10.04.34:140][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.19-10.05.02:769][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.02.19-10.05.02:799][644]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownExampleMap_Auto2ACEE2A2F4F2475D3A6606397D2AF9825.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2022.02.19-10.05.02:804][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.079
+[2022.02.19-10.05.02:804][644]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2022.02.19-10.05.02:805][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDownBP/budynk/lodowa] ([2] browsable assets)...
+[2022.02.19-10.05.02:921][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/budynk/lodowa.lodowa]
+[2022.02.19-10.05.02:922][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/budynk/lodowa]
+[2022.02.19-10.05.02:933][644]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/lodowa_Auto2A434023F4A6A4456C3FCF69CE2ECB174.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/Autosaves/Game/TopDownBP/budynk/lodowa_Auto2.uasset'
+[2022.02.19-10.05.02:935][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/budynk/OIP] ([1] browsable assets)...
+[2022.02.19-10.05.02:942][644]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TopDownBP/budynk/OIP.OIP]
+[2022.02.19-10.05.02:942][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/budynk/OIP]
+[2022.02.19-10.05.02:947][644]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/OIP_Auto2EDE4EC08442557675D3D6AAB416DDB2C.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/Autosaves/Game/TopDownBP/budynk/OIP_Auto2.uasset'
+[2022.02.19-10.05.02:949][644]LogFileHelpers: Auto-saving content packages took 0.145
+[2022.02.19-10.05.38:544][825]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.19-10.05.45:050][825]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.19-10.05.45:059][825]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.19-10.05.45:073][825]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.19-10.05.46:136][835]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.02.19-10.05.46:439][835]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.19-10.05.47:447][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/budynk/NewBlueprint.NewBlueprint
+[2022.02.19-10.06.39:382][371]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.06.39:382][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.06.42:410][455]LogEditorViewport: Clicking on Actor (LMB): lodowa_C (lodowa)
+[2022.02.19-10.07.02:888][895]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2022.02.19-10.07.15:581][340]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2022.02.19-10.10.18:719][265]BlueprintLog: New page: Compile TopDownCharacter
+[2022.02.19-10.10.18:920][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.02.19-10.10.21:581][313]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.19-10.10.21:587][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.19-10.10.21:587][313]PIE: New page: PIE session: TopDownExampleMap (19 lut 2022, 12:10:21)
+[2022.02.19-10.10.21:587][313]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.10.21:603][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015083s)
+[2022.02.19-10.10.21:605][313]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.02.19-10.10.21:605][313]LogPlayLevel: PIE: World Init took: (0.002153s)
+[2022.02.19-10.10.21:605][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017508s)
+[2022.02.19-10.10.21:654][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.02.19-10.10.21:656][313]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.19-10.10.21:656][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.19-10.10.21:656][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.19-10.10.21:657][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.19-10.10.21:657][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.19-10.10.21:657][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.19-10.10.21:657][313]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.19-10.10.21:662][313]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.19-10.10.21:662][313]LogAudioMixer: Display: 1: FrontRight
+[2022.02.19-10.10.21:672][313]LogAudioMixer: Display: Using Audio Device LG IPS FULLHD (NVIDIA High Definition Audio)
+[2022.02.19-10.10.21:672][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.19-10.10.21:672][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.19-10.10.21:673][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.19-10.10.21:673][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.19-10.10.21:673][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.19-10.10.21:673][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.19-10.10.21:674][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.19-10.10.21:674][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.19-10.10.21:674][313]LogInit: FAudioDevice initialized.
+[2022.02.19-10.10.21:674][313]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownExampleMap'.
+[2022.02.19-10.10.21:681][313]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.02.19-10.10.21:683][313]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.02.19-11.10.21
+[2022.02.19-10.10.21:683][313]LogWorld: Bringing up level for play took: 0.002141
+[2022.02.19-10.10.21:684][313]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.19-10.10.21:686][313]PIE: Server logged in
+[2022.02.19-10.10.21:687][313]PIE: Play in editor total start time 0,1 seconds.
+[2022.02.19-10.11.14:263][454]LogCharacterMovement: TopDownCharacter is stuck and failed to move! Velocity: X=577.32 Y=163.39 Z=0.00 Location: X=-378.70 Y=425.52 Z=265.58 Normal: X=-1.00 Y=0.04 Z=0.00 PenetrationDepth:4.572 Actor:rodzinka_PL_5 Component:Sphere BoneName:None (0 other events since notify)
+[2022.02.19-10.11.22:922][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.11.22:922][644]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2022.02.19-10.11.22:922][644]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-10.11.22:922][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.11.23:021][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.19-10.11.23:063][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-10.11.23:099][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.19-10.11.23:100][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.11.23:101][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-10.11.23:103][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.19-10.11.23:107][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.02.19-10.11.23:149][645]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.19-10.13.48:784][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.48:785][ 20]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1' 
+[2022.02.19-10.13.48:785][ 20]LogPhysics: Warning: Scale for /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.lodowa_2.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.48:785][ 20]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.lodowa_2.Box1' 
+[2022.02.19-10.13.48:785][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.48:785][ 20]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1' 
+[2022.02.19-10.13.48:826][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.48:826][ 21]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1' 
+[2022.02.19-10.13.49:442][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.49:442][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1' 
+[2022.02.19-10.13.49:442][ 36]LogPhysics: Warning: Scale for /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.lodowa_2.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.49:442][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.lodowa_2.Box1' 
+[2022.02.19-10.13.49:443][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.49:443][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1' 
+[2022.02.19-10.13.49:483][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.19-10.13.49:483][ 37]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.lodowa_C_0.Box1' 
+[2022.02.19-10.14.41:529][278]BlueprintLog: New page: Compile lodowa
+[2022.02.19-10.14.41:624][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.02.19-10.15.04:105][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.02.19-10.15.04:132][569]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownExampleMap0906F046460E36DFFA00FA9DA930870E.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.02.19-10.15.04:144][569]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.077
+[2022.02.19-10.15.04:217][569]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownCharacterCE26F5E64E44BF7B90A4808A6940B98F.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2022.02.19-10.15.04:262][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/lodowa" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa.uasset" SILENT=true
+[2022.02.19-10.15.04:273][569]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/lodowaD8F7F01541BC95D5C102D08CC1725355.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa.uasset'
+[2022.02.19-10.15.04:276][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/OIP" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/OIP.uasset" SILENT=true
+[2022.02.19-10.15.04:291][569]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/OIP1BDADFD142CB52A522AF82B4B863F883.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/OIP.uasset'
+[2022.02.19-10.15.04:464][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/NewBlueprint" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/NewBlueprint.uasset" SILENT=true
+[2022.02.19-10.15.04:468][569]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/NewBlueprint6F0922F843E40FF73F6879BF2B49AFB1.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/NewBlueprint.uasset'
+[2022.02.19-10.15.04:641][569]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-10.15.04:642][569]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2022.02.19-10.15.04:642][569]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.02.19-10.15.04:642][569]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/budynk/lodowa.lodowa
+[2022.02.19-10.15.04:642][569]LogContentValidation: Display: Validating Texture2D /Game/TopDownBP/budynk/OIP.OIP
+[2022.02.19-10.15.04:642][569]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/budynk/NewBlueprint.NewBlueprint
+[2022.02.19-10.15.07:532][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.07:533][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/studentwse/Desktop/robociki/robociki'
+[2022.02.19-10.15.08:058][621]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownCharacter32752FAC403FFFE8A6695094893B6EAE.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2022.02.19-10.15.08:061][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/lodowa" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa.uasset" SILENT=true
+[2022.02.19-10.15.08:068][621]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/lodowa69B0D9804B1AAFA84C552D8B5AE8E847.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa.uasset'
+[2022.02.19-10.15.08:070][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/lodowa_mat" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa_mat.uasset" SILENT=true
+[2022.02.19-10.15.08:072][621]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/lodowa_mat82B8D90848C63685D5C7BEBB08C58B00.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/lodowa_mat.uasset'
+[2022.02.19-10.15.08:074][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/NewBlueprint" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/NewBlueprint.uasset" SILENT=true
+[2022.02.19-10.15.08:079][621]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/NewBlueprintC47CE4654966422D28A5AA9E28918D68.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/NewBlueprint.uasset'
+[2022.02.19-10.15.08:081][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/budynk/OIP" FILE="../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/OIP.uasset" SILENT=true
+[2022.02.19-10.15.08:086][621]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/OIP93AA2F8A49C089AEF775228627F47DF0.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/budynk/OIP.uasset'
+[2022.02.19-10.15.08:127][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.02.19-10.15.08:153][621]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownExampleMapA320893648AE7C54A4E0CF8CB2E51CB0.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.02.19-10.15.08:166][621]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.078
+[2022.02.19-10.15.09:869][621]LogSlate: Window 'Submit Files' being destroyed
+[2022.02.19-10.15.10:939][621]LogSourceControl: commit successful: [main 5e86c5f] aaaaaa
+[2022.02.19-10.15.11:126][621]SourceControl: [main 5e86c5f] aaaaaa
+[2022.02.19-10.15.11:126][621]SourceControl:  6 files changed, 0 insertions(+), 0 deletions(-)
+[2022.02.19-10.15.11:126][621]SourceControl:  rewrite Content/TopDownBP/Blueprints/TopDownCharacter.uasset (84%)
+[2022.02.19-10.15.11:126][621]SourceControl:  create mode 100644 Content/TopDownBP/budynk/NewBlueprint.uasset
+[2022.02.19-10.15.11:126][621]SourceControl:  create mode 100644 Content/TopDownBP/budynk/OIP.uasset
+[2022.02.19-10.15.11:126][621]SourceControl:  rewrite Content/TopDownBP/budynk/lodowa.uasset (89%)
+[2022.02.19-10.15.11:126][621]SourceControl:  create mode 100644 Content/TopDownBP/budynk/lodowa_mat.uasset
+[2022.02.19-10.15.11:130][621]SourceControl: Commited [main 5e86c5f] aaaaaa.
+[2022.02.19-10.15.11:177][622]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-10.15.11:178][622]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2022.02.19-10.15.11:178][622]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.02.19-10.15.11:178][622]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/budynk/lodowa.lodowa
+[2022.02.19-10.15.11:178][622]LogContentValidation: Display: Validating Texture2D /Game/TopDownBP/budynk/OIP.OIP
+[2022.02.19-10.15.11:178][622]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/budynk/NewBlueprint.NewBlueprint
+[2022.02.19-10.15.11:178][622]LogContentValidation: Display: Validating Material /Game/TopDownBP/budynk/lodowa_mat.lodowa_mat
