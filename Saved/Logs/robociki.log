@@ -1347,3 +1347,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.19-09.53.25:948][261]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownExampleMapB72AE9B04E5D439A5B154DB6C851AD76.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2022.02.19-09.53.25:955][261]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.064
 [2022.02.19-09.53.26:090][261]LogSavePackage: Moving '../../../../../../Users/studentwse/Desktop/robociki/robociki/Saved/TopDownExampleMap_BuiltData618C3FCC4B3DD6E29721859E8B41F880.tmp' to '../../../../../../Users/studentwse/Desktop/robociki/robociki/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2022.02.19-09.53.38:716][261]LogSlate: Window 'Submit Files' being destroyed
+[2022.02.19-09.53.39:153][261]SourceControl: Error: Updated 0 paths from the index
+[2022.02.19-09.53.39:567][261]SourceControl: On branch main
+[2022.02.19-09.53.39:567][261]SourceControl: Your branch is up to date with 'origin/main'.
+[2022.02.19-09.53.39:567][261]SourceControl: Changes not staged for commit:
+[2022.02.19-09.53.39:567][261]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2022.02.19-09.53.39:567][261]SourceControl:   (use "git restore <file>..." to discard changes in working directory)
+[2022.02.19-09.53.39:567][261]SourceControl: 	modified:   Saved/Logs/robociki.log
+[2022.02.19-09.53.39:567][261]SourceControl: Untracked files:
+[2022.02.19-09.53.39:567][261]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2022.02.19-09.53.39:567][261]SourceControl: 	Saved/Logs/Git-Temp50D8A97F407BA1BE16320CA50E87FA10.txt
+[2022.02.19-09.53.39:567][261]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2022.02.19-09.53.39:607][262]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/ai/rodzinka_PL.rodzinka_PL
+[2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/budynk/lodowa.lodowa
+[2022.02.19-09.53.39:607][262]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/ai/cele_rodzinki.cele_rodzinki
